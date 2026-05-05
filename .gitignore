@@ -27,8 +27,6 @@ dist-ssr
 Thumbs.db
 
 # Env / secrets
-.env
-.env.*
 !.env.example
 *.pem
 *.key
@@ -81,3 +79,4 @@ test_resume_output.pdf
 # User-generated documents
 *.pdf
 !docs/**/*.pdf
+config.bat
